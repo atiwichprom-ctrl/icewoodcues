@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a84c"/>
+      <stop offset="50%" style="stop-color:#f0d060"/>
+      <stop offset="100%" style="stop-color:#c9a84c"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Decorative lines -->
+  <line x1="0" y1="60" x2="1200" y2="60" stroke="#c9a84c" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="570" x2="1200" y2="570" stroke="#c9a84c" stroke-width="1" opacity="0.3"/>
+  <!-- Cue stick visual -->
+  <rect x="560" y="80" width="6" height="460" fill="url(#gold)" rx="3" opacity="0.8"/>
+  <rect x="558" y="440" width="10" height="100" fill="#8B4513" rx="2" opacity="0.9"/>
+  <!-- Brand name -->
+  <text x="200" y="220" font-family="Georgia, serif" font-size="80" font-weight="900" fill="url(#gold)" letter-spacing="8">ICEWOOD</text>
+  <text x="200" y="290" font-family="Georgia, serif" font-size="40" font-weight="400" fill="#ffffff" letter-spacing="16" opacity="0.8">CUES</text>
+  <!-- Tagline -->
+  <text x="200" y="380" font-family="Arial, sans-serif" font-size="22" fill="#c9a84c" opacity="0.9" letter-spacing="2">ไม้คิวบิลเลียดทำมือระดับมืออาชีพ</text>
+  <text x="200" y="415" font-family="Arial, sans-serif" font-size="18" fill="#888888" letter-spacing="1">ด้ามดำ · จำปา · วีเนียร์ · ใบรับรองเฉพาะตัว</text>
+  <!-- Decorative dots -->
+  <circle cx="200" cy="460" r="4" fill="#c9a84c" opacity="0.6"/>
+  <circle cx="220" cy="460" r="4" fill="#c9a84c" opacity="0.4"/>
+  <circle cx="240" cy="460" r="4" fill="#c9a84c" opacity="0.2"/>
+</svg>
