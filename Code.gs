@@ -9,7 +9,7 @@
 //   4. Copy Web App URL ใส่ใน config.js ช่อง gasUrl
 // ══════════════════════════════════════════════════════════════════════
 
-const SHEET_ID = 'YOUR_GOOGLE_SHEET_ID_HERE'; // ← ใส่ Sheet ID ของคุณ
+const SHEET_ID = '1me_vQwxzm7Qb8A3GYWJLQDULBwC_I-ZmK7MJYqgacvE'; // Icewood Cues — Backend DB
 
 // ── LINE Messaging API (แจ้งเตือนออเดอร์ใหม่) ───────────────────────
 // หมายเหตุ: LINE Notify ปิดบริการแล้ว (มี.ค. 2025) — ใช้ Messaging API แทน
